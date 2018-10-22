@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="poi-3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/eclipse/ex_libs/poi-3.17" />
+      <root url="jar://$USER_HOME$/eclipse/ex_libs/poi-3.17/ooxml-lib/curvesapi-1.04.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/ex_libs/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/eclipse/ex_libs/poi-3.17/lib/commons-collections4-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/eclipse/ex_libs/poi-3.17/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/eclipse/ex_libs/poi-3.17" recursive="false" />
+  </library>
+</component>
